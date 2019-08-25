@@ -10,4 +10,12 @@ void main()
 
 	}
 	writeln("Hello world.");
+	write("Hello");
+
+    // ... let's assume more operations at this point ...
+
+    write("World!");
+
+    // ... and finally:
+    writeln();
 }
