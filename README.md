@@ -12,10 +12,9 @@
 #### 2）[初识D](./D_lang_base/02.md)
 &nbsp;&nbsp;[2.1 安装和设置](./D_lang_base/02.1.md) <br />
 &nbsp;&nbsp;[2.2 IDE](./D_lang_base/02.2.md)<br />
-&nbsp;&nbsp;[2.3 Hello World](./D_lang_base/02.3.md)<br />
-&nbsp;&nbsp;[2.4 flag包的使用详解](./D_lang_base/02.4.md)<br />
-&nbsp;&nbsp;[2.5 D命令](./D_lang_base/02.5.md)<br />
-&nbsp;&nbsp;[2.6 D语言的注释](./D_lang_base/02.6.md)<br />
+&nbsp;&nbsp;[2.3 数据类型](./D_lang_base/02.3.md)<br />
+&nbsp;&nbsp;[2.4 dmd 命令](./D_lang_base/02.4.md)<br />
+&nbsp;&nbsp;[2.5 D语言的注释](./D_lang_base/02.5.md)<br />
 #### 3）数据类型
 &nbsp;&nbsp;[3.1 标识符](./D_lang_base/03.1.md) <br />
 &nbsp;&nbsp;[3.2 基本类型](./D_lang_base/03.2.md)<br />
