@@ -10,7 +10,7 @@ void main()
 
 	}
 	writeln("Hello world.");
-	write("Hello");
+	write("Hello  ");
 
     // ... let's assume more operations at this point ...
 
