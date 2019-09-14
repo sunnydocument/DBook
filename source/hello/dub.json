@@ -3,6 +3,9 @@
 		"sunny"
 	],
 	"copyright": "Copyright © 2019, sunny",
+	"dependencies": {
+		"hunt-database": "~>1.3.1"
+	},
 	"description": "A minimal D application.",
 	"license": "proprietary",
 	"name": "hello"

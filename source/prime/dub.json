@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"sunny"
+	],
+	"copyright": "Copyright © 2019, sunny",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "prime"
+}

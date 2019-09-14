@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/prime
+prime.so
+prime.dylib
+prime.dll
+prime.a
+prime.lib
+prime-test-*
+*.exe
+*.o
+*.obj
+*.lst
