@@ -9,7 +9,7 @@
 #### 1）[D语言简介](./D_lang_base/01.md) 
 &nbsp;&nbsp;[1.1 语言特点](./D_lang_base/01.1.md)<br />
 &nbsp;&nbsp;[1.2 学好D的注意事项](./D_lang_base/01.2.md)<br />
-#### 2）初识D 
+#### 2）[初识D](./D_lang_base/02.md)
 &nbsp;&nbsp;[2.1 安装和设置](./D_lang_base/02.1.md) <br />
 &nbsp;&nbsp;[2.2 IDE](./D_lang_base/02.2.md)<br />
 &nbsp;&nbsp;[2.3 Hello World](./D_lang_base/02.3.md)<br />
