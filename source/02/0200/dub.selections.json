@@ -1,6 +1,8 @@
 {
 	"fileVersion": 1,
 	"versions": {
-		"battery-d": "0.0.2"
+		"hunt": "1.3.0",
+		"hunt-database": "1.3.1",
+		"hunt-sql": "1.2.0"
 	}
 }

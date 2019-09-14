@@ -1,8 +1,7 @@
 import std.stdio;
-import battery.d;
+import hunt.database; //数据库
 
-void main() {
-	auto b = new Battery();
-	writeln("Level: ", b.level);
-	writeln("Status: ", b.status);
+void main()
+{
+	writeln("Edit source/app.d to start your project.");
 }
