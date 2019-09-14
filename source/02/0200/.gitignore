@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/0200
+0200.so
+0200.dylib
+0200.dll
+0200.a
+0200.lib
+0200-test-*
+*.exe
+*.o
+*.obj
+*.lst

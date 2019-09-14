@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"sunny"
+	],
+	"copyright": "Copyright © 2019, sunny",
+	"dependencies": {
+		"battery-d": "~>0.0.2"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "0200"
+}
