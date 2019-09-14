@@ -3,5 +3,5 @@ import hunt.database; //数据库
 
 void main()
 {
-	writeln("Edit source/app.d to start your project.");
+	writeln("数据库成功");
 }
